@@ -164,7 +164,7 @@
 -------------------------------
 **تانل 6to4 به دو صورت**
 
-![7115070](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/cde3ca64-6750-48dc-8a60-001d44bbdd3d)**تانل 6to4 بدون Anycast**
+**تانل 6to4 بدون Anycast**
 
 
 ![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/d30892cf-cd26-4695-886d-9a4a47ade691)**سرور خارج**
@@ -194,7 +194,7 @@
 
 
 -------------------------------
-![7115070](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/cde3ca64-6750-48dc-8a60-001d44bbdd3d)**تانل 6to4 با Anycast**
+**تانل 6to4 با Anycast**
 
 ![green-dot-clipart-3](https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/d30892cf-cd26-4695-886d-9a4a47ade691)**سرور خارج**
 
@@ -223,7 +223,7 @@
 
 
 -------------------------------
-**نصب **
+## نصب 
 ----------------
 
 
