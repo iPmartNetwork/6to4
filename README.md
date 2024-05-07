@@ -9,7 +9,7 @@
 </p>
 
 
-![R (2)](https://github.com/hexyali/PrivateIP-Tunnel/assets/119934376/a064577c-9302-4f43-b3bf-3d4f84245a6f)
+
 نام پروژه : تانل 6to4 - پرایوت ایپی (امکان تانل بین 5 سرور خارج و 1 ایران و برعکس)
 ---------------------------------------------------------------
 ![lang](https://github.com/hexyali/PrivateIP-Tunnel/assets/119934376/627ecb66-0445-4c15-b2a0-59e02c7f7e09)
@@ -17,7 +17,7 @@
 
 - [زبان English]
 ------------------------
-![R (a2)](https://github.com/hexyali/6TO4-PrivateIP/assets/119934376/57a4c3f1-f637-4d4d-bec2-1de36206d136)**دسترسی سریع به اسکریپت**
+**دسترسی سریع به اسکریپت**
 
 
 - [کلیک - click](https://github.com/hexyali/6TO4-PrivateIP_multipleSERVERS/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86)
@@ -231,45 +231,7 @@
 
 
 -------------------------------
-
-**اسکرین شات**
-<details>
-  <summary align="right">Click to reveal image</summary>
-  
-  <p align="right">
-    <img src="https://github.com/Azumi67/6TO4-PrivateIP/assets/119934376/bbc60d8e-0e86-4eb8-897d-e9f0f57306bc" alt="menu screen" />
-  </p>
-</details>
-
-
-------------------------------------------
-![scri](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/cbfb72ac-eff1-46df-b5e5-a3930a4a6651)
-**اسکریپت های کارآمد :**
-- این اسکریپت ها optional میباشد.
-
-
- 
- Opiran Script
-```
-apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/optimizer.sh --ipv4)
-```
-
-Hawshemi script
-
-```
-wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-optimizer.sh" -O linux-optimizer.sh && chmod +x linux-optimizer.sh && bash linux-optimizer.sh
-```
-
-<div dir="rtl">&bull; اضافه کردن ایپی 6 اضافه</div>
- 
-  
-```
-bash <(curl -s -L https://raw.githubusercontent.com/opiran-club/softether/main/opiran-seth)
-```
-
------------------------------------------------------
-![R (a2)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/716fd45e-635c-4796-b8cf-856024e5b2b2)
-**اسکریپت من**
+**نصب **
 ----------------
 
 
@@ -278,25 +240,35 @@ apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/hexyali
 ```
 
 
----------------------------------------------
-![R (7)](https://github.com/Azumi67/PrivateIP-Tunnel/assets/119934376/42c09cbb-2690-4343-963a-5deca12218c1)
-**تلگرام** 
-![R (6)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/f81bf6e1-cfed-4e24-b944-236f5c0b15d3) [اپیران- OPIRAN](https://t.me/OPIranClubb)
+# تلگرام
 
----------------------------------
-![R23 (1)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/18d12405-d354-48ac-9084-fff98d61d91c)
-**سورس ها**
+[@ipmart_network](https://t.me/ipmart_network)
 
-![R (9)](https://github.com/Azumi67/6TO4-GRE-IPIP-SIT/assets/119934376/4758a7da-ab54-4a0a-a5a6-5f895092f527)[سورس های Hwashemi](https://github.com/hawshemi/Linux-Optimizer)
-
-![R (9)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/33388f7b-f1ab-4847-9e9b-e8b39d75deaa) [سورس های OPIRAN](https://github.com/opiran-club)
+[@iPmart Group](https://t.me/ipmartnetwork_gp)
 
 
------------------------------------------------------
 
-![youtube-131994968075841675](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/24202a92-aff2-4079-a6c2-9db14cd0ecd1)
-**ویدیوی آموزش**
 
------------------------------------------
+ # حمایت از ما :hearts:
+حمایت های شما برای ما دلگرمی بزرگی است<br> 
+<p align="left">
+<a href="https://plisio.net/donate/kB7QU7f7" target="_blank"><img src="https://plisio.net/img/donate/donate_light_icons_mono.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a><br>
+	
+|                    TRX                   |                       BNB                         |                    Litecoin                       |
+| ---------------------------------------- |:-------------------------------------------------:| -------------------------------------------------:|
+| ```TJbTYV1fFo2485sYMyajxGPLFzxmNmPrNA``` |  ```0x4af3de9b303a8d43105e284823d95b4c600961a3``` | ```MPrkzFiNtw4Rg67bbZB6gCxa9LV87orABM``` |	
 
+</p>	
+
+
+
+
+<p align="center">
+<picture>
+<img width="160" height="160"  alt="XPanel" src="https://github.com/iPmartNetwork/iPmart-SSH/blob/main/images/logo.png">
+</picture>
+  </p> 
+
+  
+  
 
