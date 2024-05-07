@@ -12,15 +12,7 @@
 
 نام پروژه : تانل 6to4 - پرایوت ایپی (امکان تانل بین 5 سرور خارج و 1 ایران و برعکس)
 ---------------------------------------------------------------
-![lang](https://github.com/hexyali/PrivateIP-Tunnel/assets/119934376/627ecb66-0445-4c15-b2a0-59e02c7f7e09)
-**زبان - Languages**
 
-- [زبان English]
-------------------------
-**دسترسی سریع به اسکریپت**
-
-
-- [کلیک - click](https://github.com/hexyali/6TO4-PrivateIP_multipleSERVERS/tree/main#%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-%D9%85%D9%86)
 ------------------------
 ![Update-Note--Arvin61r58](https://github.com/hexyali/6TO4-PrivateIP/assets/119934376/abc423fc-f055-42e2-a60f-7b91e468fd04)  **امکان تانل بین 5 سرور خارج و 1 سرور ایران و برعکس**
 - مانند قبل سرور های خارج خودتان را اول کانفیگ کنید و بعد سرور ایران
