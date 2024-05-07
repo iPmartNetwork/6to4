@@ -228,7 +228,7 @@
 
 
 ```
-apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/hexyali/6TO4-PrivateIP_multipleSERVERS/main/6to4.sh --ipv4)
+apt install curl -y && bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/6to4/main/6to4.sh --ipv4)
 ```
 
 
